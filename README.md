@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-    <img width="25%" alt="whatsapp-date-fixer" src="./public/icon.png"> 
+    <img width="150px" alt="whatsapp-date-fixer" src="./public/icon.png"> 
 </p>
 
 # whatsapp-date-fixer
