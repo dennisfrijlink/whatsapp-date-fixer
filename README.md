@@ -18,6 +18,8 @@ bun install
 
 Set path to scan for images:
 ```env
+# .env
+
 SCAN_ROOT=path/to/scan
 ```
 
